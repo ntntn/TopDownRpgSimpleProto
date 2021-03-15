@@ -1,0 +1,14 @@
+{ "columns":14,
+ "image":"..\/img\/AnimTIles.png",
+ "imageheight":256,
+ "imagewidth":224,
+ "margin":0,
+ "name":"AnimTIles",
+ "spacing":0,
+ "tilecount":224,
+ "tiledversion":"1.4.3",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.4
+}
